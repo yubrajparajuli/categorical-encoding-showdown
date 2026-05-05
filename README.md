@@ -11,7 +11,7 @@ defaulting to One-Hot encoding for everything.
 
 ## Medium Blog
 
-Read the full blog post here →
+Read the full blog post here → [Stop Using One-Hot Encoding for Everything](https://medium.com/@yubrajparajuli2024/stop-using-one-hot-encoding-for-everything-heres-what-to-use-instead-73e2b0e9c023)
 
 ---
 
